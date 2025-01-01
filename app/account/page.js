@@ -1,4 +1,6 @@
-import Navigation from "../_components/Navigation";
+export const metadata = {
+  title: "Account",
+};
 
 const Page = () => {
   return (
