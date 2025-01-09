@@ -1,10 +1,12 @@
-import Navigation from "../_components/Navigation";
+export const metadata = {
+  title: "Account",
+};
 
 const Page = () => {
   return (
-    <div>
-      <h1>Account page</h1>
-    </div>
+    <h2 className="font-semibold text-2xl text-accent-400 mb-7">
+      Welcome Ahmed
+    </h2>
   );
 };
 
